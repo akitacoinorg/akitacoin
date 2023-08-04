@@ -24,7 +24,6 @@ Founded by Yasuo, Akitacoin is an open-source peer-to-peer cryptocurrency whose 
 Yasuo, who founded the project on July 27, 2023.[Twitter](https://twitter.com/Yasuo1306?s=03)
 
 
-[Twitter](about.php)
 
 
 
