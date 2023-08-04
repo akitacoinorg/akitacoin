@@ -9,9 +9,6 @@ Akitacoin is a cryptocurrency that does not have any utility or intrinsic value.
 At its core, Akitacoin this is a meme in its own right that hopes to inspire others by combining memes and cryptocurrency.
 
 Akitacoin is inspired by Dogecoin, but with a couple of key differences. Firstly, the BNB Smart Chain blockchain was chosen for its placement, and its own was not developed. Secondly, the emission is limited to 357,888,888,888,888 tokens. In addition, Akitacoin expects to become a more sustainable project in the long term through the launch of additional products.
-
-  The History
-
 Founded by Yasuo, Akitacoin is an open-source peer-to-peer cryptocurrency whose logo is an Akita Inu dog. Created as a joke, on the BNB Smart Chain blockchain
 
    Akitacoin
