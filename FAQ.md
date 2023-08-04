@@ -12,3 +12,14 @@ It is also an open-source peer-to-peer cryptocurrency that utilises blockchain t
 🔗ᴡʜᴏ ᴏᴡɴs ᴀɴᴅ ᴄᴏɴᴛʀᴏʟs ᴛʜᴇ ᴀᴋɪᴛᴀᴄᴏɪɴ ɴᴇᴛᴡᴏʀᴋ❓
 
 One of the great things about Akitacoin is that nobody or no organization “owns” the Akitacoin blockchain: it is completely open source, permissionless, decentralized and peer-to-peer. Akitacoin nodes function via a decentralized consensus mechanism to prevent malicious actors from gaining control over the network. Simply put, if more than half of all nodes on the Akitacoin blockchain ‘agree’ that a transaction is valid, then the transaction is processed and stored in the blockchain. This decentralized control through the security nodes that Akitacoin security is handled in a peer-to-peer network without the need for a controlling central part such as a bank.Cool, yeah?
+
+
+🔗ᴏᴡ ᴅᴏᴇs ᴀᴋɪᴛᴀᴄᴏɪɴ ᴡᴏʀᴋ❓
+
+Like other popular cryptocurrencies, Akitacoin works using blockchain technology. Akitacoin is a digital payment system that does not involve banks in verifying transactions. It is a peer-to-peer system that allows anyone, anywhere to send and receive payments. Cryptocurrency payments exist exclusively digitally in an online database describing specific transactions. They do not involve operations with physical money that has circulation and the possibility of exchange exchange in the real world. When transferring funds in cryptocurrency, transactions are recorded in a public ledger.
+
+Akitacoin technology is no different from some other “real” cryptocurrencies, and its underlying mechanism is very similar to that of well-known altcoins such as Ethereum and Litecoin
+
+Akitacoin works in the same way as other cryptocurrencies, that is, using the blockchain,
+
+Simply put, if you want to send money to someone who is anywhere in the world, or receive money from someone who is anywhere in the world, without using a centralized bank and paying conversion and transfer fees, then Akitacoin can work. for you!
