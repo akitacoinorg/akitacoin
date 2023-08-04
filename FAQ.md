@@ -2,7 +2,7 @@
 
 
 
-What is Akitacoin❓
+ᴡʜᴀᴛ ɪs ᴀᴋɪᴛᴀᴄᴏɪɴ❓
 
 💻
 
