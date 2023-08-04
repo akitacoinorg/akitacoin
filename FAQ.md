@@ -1,1 +1,1 @@
-Akitapedia
+AKITAPEDIA
