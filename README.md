@@ -26,7 +26,7 @@ Yasuo, who founded the project on July 27, 2023.[Twitter](https://twitter.com/Ya
 
 
 
-Do you have a question regarding Dogecoin? An answer is perhaps already in the [FAQ](FAQ.md)
+Do you have a question regarding Akitacoin? An answer is perhaps already in the [FAQ](FAQ.md)
 
 
 How can I join the Akitacoin community
