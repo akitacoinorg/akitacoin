@@ -26,7 +26,7 @@ Yasuo, who founded the project on July 27, 2023.[Twitter](https://twitter.com/Ya
 
 
 
-How can I join the Akitacoin community?</h2>
+How can I join the Akitacoin community
 					
 
 						
