@@ -1,8 +1,6 @@
 # akitacoin
 
 
-
-![akitacoin-10](https://github.com/akitacoinorg/akitacoin/assets/141422294/3eeebbc8-c03e-4892-b7e8-63b50846c65b)
-
+![akita-coin](https://github.com/akitacoinorg/akitacoin/assets/141422294/87c7ab6a-7797-470c-95db-3cd2ffc5f32b)
 
 
