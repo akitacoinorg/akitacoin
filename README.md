@@ -17,8 +17,13 @@ Founded by Yasuo, Akitacoin is an open-source peer-to-peer cryptocurrency whose 
 
 Akitacoin is a new blockchain created for the community.
 
-Akitacoin's priority is to build a broader Akitacoin community. For this, a comprehensive roadmap has been developed, which indicates the main stages, goals and plans for the future.
-Each project has value in itself, all members of the community do research before investing.
+
+
+
+
+
+![Yasuo, who founded the project on July 27, 2023.](https://twitter.com/Yasuo1306?s=03)
+
 
 
 
