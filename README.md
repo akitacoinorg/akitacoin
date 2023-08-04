@@ -6,6 +6,7 @@
   The Project
 
 Akitacoin is a cryptocurrency that does not have any utility or intrinsic value. It is associated with internet memes, jokes
+At its core, Akitacoin this is a meme in its own right that hopes to inspire others by combining memes and cryptocurrency.
 
 Akitacoin is inspired by Dogecoin, but with a couple of key differences. Firstly, the BNB Smart Chain blockchain was chosen for its placement, and its own was not developed. Secondly, the emission is limited to 357,888,888,888,888 tokens. In addition, Akitacoin expects to become a more sustainable project in the long term through the launch of additional products.
 
@@ -20,9 +21,9 @@ Akitacoin is a new blockchain created for the community.
 
 
 
-Yasuo, who founded the project on July 27, 2023.
+Yasuo, who founded the project on July 27, 2023.[Twitter](https://twitter.com/Yasuo1306?s=03)
 
-[Twitter](https://twitter.com/Yasuo1306?s=03)
+
 
 
 
