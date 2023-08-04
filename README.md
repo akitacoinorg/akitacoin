@@ -27,63 +27,6 @@ Yasuo, who founded the project on July 27, 2023.[Twitter](https://twitter.com/Ya
 
 
 
-Akitacoin is a completely open project
-
-Akitacoin - FAQs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 How can I join the Akitacoin community
