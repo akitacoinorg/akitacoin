@@ -27,3 +27,13 @@ Akitacoin technology is no different from some other “real” cryptocurrencies
 Akitacoin works in the same way as other cryptocurrencies, that is, using the blockchain,
 
 Simply put, if you want to send money to someone who is anywhere in the world, or receive money from someone who is anywhere in the world, without using a centralized bank and paying conversion and transfer fees, then Akitacoin can work. for you!
+
+
+🔗ʜᴏᴡ ᴍᴀɴʏ ᴀᴋɪᴛᴀᴄᴏɪɴ ᴄᴏɪɴ❓
+
+📊
+
+How many Akitacoin tokens have been issued in total? The current volume of Akitacoin is 357 trillion.
+At the same time, everyone can become a little detective and with the help of such online platforms in a few clicks get information about previously completed transactions with a specific address, its current balance, amounts passed through it or lists of addresses for incoming (input) and outgoing (output) operations.<br><a href="https://bscscan.com/token/0x13500ff3d46cb8c6d07ba50f86b11fc8a74cfd0e">BscScan.</a>
+
+
