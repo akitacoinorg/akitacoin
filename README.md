@@ -6,7 +6,7 @@
 
 
 
-ᴡᴇʙsɪᴛᴇ: akitacoin.org[](https://akitacoin.org)
+ᴡᴇʙsɪᴛᴇ: [akitacoin.org](https://akitacoin.org)
 
  🔗 𝐓𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 🪙
 
