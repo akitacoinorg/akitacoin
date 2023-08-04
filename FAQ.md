@@ -2,7 +2,7 @@ AKITAPEDIA
 
 
 
-  What is Akitacoin?
+  What is Akitacoin❓
 
 
 Akitacoin is a unit of account designed to represent the digital balance in some asset, in other words, it acts as a “substitute for securities” in the digital world.
