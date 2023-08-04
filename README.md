@@ -3,6 +3,11 @@
 
 ![akita-coin](https://github.com/akitacoinorg/akitacoin/assets/141422294/87c7ab6a-7797-470c-95db-3cd2ffc5f32b)
 
+
+
+
+ᴡᴇʙsɪᴛᴇ: akitacoin.org
+
  🔗 𝐓𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 🪙
 
 Akitacoin is a cryptocurrency that does not have any utility or intrinsic value. It is associated with internet memes, jokes
