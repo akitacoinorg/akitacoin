@@ -20,9 +20,9 @@ Akitacoin is a new blockchain created for the community.
 
 
 
+Yasuo, who founded the project on July 27, 2023.
 
-
-[Yasuo, who founded the project on July 27, 2023.](https://twitter.com/Yasuo1306?s=03)
+[Twitter](https://twitter.com/Yasuo1306?s=03)
 
 
 
