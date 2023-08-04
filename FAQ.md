@@ -2,7 +2,7 @@ AKITAPEDIA
 
 
 
-  What is Akitacoin❓
+What is Akitacoin❓
 
 💻
 
