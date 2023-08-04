@@ -26,7 +26,12 @@ Yasuo, who founded the project on July 27, 2023.[Twitter](https://twitter.com/Ya
 
 
 
+How can I join the Akitacoin community?</h2>
+					
 
+						
+There are many ways to get involved in the Akitacoin community! Most of the popular social media platforms have a thriving and welcoming Akitacoin community through which newcomers and old-timers alike can connect, discuss, and share their thoughts, memes, ideas, and share the joy of all things Akita.
+[Twitter](http://twitter.com/akitacoinworld)    [Telegram](https://t.me/akitacoinworld)
 
 
 
