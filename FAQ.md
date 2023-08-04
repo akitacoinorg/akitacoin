@@ -18,6 +18,8 @@ One of the great things about Akitacoin is that nobody or no organization “own
 
 🔗ᴏᴡ ᴅᴏᴇs ᴀᴋɪᴛᴀᴄᴏɪɴ ᴡᴏʀᴋ❓
 
+⚙️
+
 Like other popular cryptocurrencies, Akitacoin works using blockchain technology. Akitacoin is a digital payment system that does not involve banks in verifying transactions. It is a peer-to-peer system that allows anyone, anywhere to send and receive payments. Cryptocurrency payments exist exclusively digitally in an online database describing specific transactions. They do not involve operations with physical money that has circulation and the possibility of exchange exchange in the real world. When transferring funds in cryptocurrency, transactions are recorded in a public ledger.
 
 Akitacoin technology is no different from some other “real” cryptocurrencies, and its underlying mechanism is very similar to that of well-known altcoins such as Ethereum and Litecoin
